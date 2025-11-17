@@ -2,18 +2,26 @@
 
 #define tartalmazza include
 
-#define const
+#define szabvány std
+
+#define fő main
+
+#define üres void
+#define űr void
 #define egész int
 #define tört float
+#define lebegő float
 #define méret size_t
 #define karakter char
-#define igaz true
-#define hamis false
 #define logért bool
 #define logikai bool
 #define igazhamis bool
-#define üres void
-#define űr void
+#define igaz true
+#define hamis false
+
+#define állandó const
+#define konstans const
+
 #define vektor vector
 #define fonal string
 #define szövegfonal string
@@ -24,22 +32,19 @@
 #define zsinor string
 #define szövegzsinor string
 #define karakterzsinor string
-#define zsineg string
-#define szövegzsineg string
-#define karakterzsineg string
 #define szöveg string
 #define fájlpatak fstream
-#define fő main
 
-#define szabvány std
+#define visszatér return
 #define bemenet cin
 #define kimenet cout
 #define hiba cerr 
 #define sorvég endl 
 #define új new 
-#define visszatér return
 #define kijárat exit
 #define véletlenszerű rand
+#define rendszer system 
+#define szisztéma system 
 
 #define hogyha if
 #define különben else
