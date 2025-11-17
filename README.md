@@ -9,7 +9,7 @@ Ezen C++ könyvtár lehetővé teszi, hogy ötvözd a C++-t és az anyanyelved, 
 
 ## Főbb szintaktikai elemek:
 ###1. Adattípusok:
-- void => űr/üres
+- void => űr
 - const [...] => állandó/konstans [...]
 - int => egész
 - float => tört/lebegő
@@ -17,7 +17,7 @@ Ezen C++ könyvtár lehetővé teszi, hogy ötvözd a C++-t és az anyanyelved, 
 - char => karakter
 - bool => logért/logikai/igazhamis
 
-- std::vector => szabvány:vektor
+- std::vector => szabvány::vektor
 - std::string => szabvány::fonal/karakterfonal/szövegfonal/fonál/karakterfonál/szövegfonál/zsinor/karakterzsinor/szövegzsinor/szöveg
 - std::fstream => szabvány::fájlpatak
 

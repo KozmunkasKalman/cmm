@@ -6,7 +6,6 @@
 
 #define fő main
 
-#define üres void
 #define űr void
 #define egész int
 #define tört float
