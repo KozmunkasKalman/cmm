@@ -8,7 +8,7 @@ Ezen C++ könyvtár lehetővé teszi, hogy ötvözd a C++-t és az anyanyelved, 
 4. ``Segmentation fault         (core dumped)``
 
 ## Főbb szintaktikai elemek:
-###1. Adattípusok:
+### 1. Adattípusok:
 - void => űr
 - const [...] => állandó/konstans [...]
 - int => egész
